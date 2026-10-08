@@ -45,10 +45,11 @@ This project is a simple Two-Factor Authentication (2FA) system developed using 
 - Database integration
 - Improved user interface
   
+## Author
+
+Farzana Mim
+
 ## Project Screenshot
 
 ![Project Screenshot](<Screenshot 2026-10-08 105557.png>)
 
-## Author
-
-Farzana Mim
