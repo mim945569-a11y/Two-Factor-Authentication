@@ -44,6 +44,10 @@ This project is a simple Two-Factor Authentication (2FA) system developed using 
 - Stronger password validation
 - Database integration
 - Improved user interface
+  
+## Project Screenshot
+
+![Project Screenshot](<Screenshot 2026-10-08 105557.png>)
 
 ## Author
 
